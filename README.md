@@ -14,5 +14,7 @@ In the future, I hope to improve more on:
 
 This was a nice first run-through of the full process, and I know that this'll help me as I go through the process again.
 
-This program was created in Kaggle at the link here: https://www.kaggle.com/code/lukenelson1012/first-ml-mini-project-customer-shopping-trends
-dataset is called "Customer Shopping (Latest Trends) Dataset," which can be found at this link: https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
+This program was created in Kaggle at the link here: 
+https://www.kaggle.com/code/lukenelson1012/first-ml-mini-project-customer-shopping-trends
+Dataset is called "Customer Shopping (Latest Trends) Dataset," which can be found at this link: 
+https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
